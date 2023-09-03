@@ -16,4 +16,4 @@
 
 7.模型部署：onnx及其onnxruntime工具、Netron可视化ONNX格式的模型、torchscript（torch.jit.trace / torch.jit.script）、推理时间效果对比。
 
-8.分布式训练：torch.nn.parallel下数据并行的DataParallel（单进程多线程） 和DistributedDataParallel（多进程）实现单机多卡训练。
+8.分布式训练：torch.nn.parallel下数据并行的DataParallel（单进程多线程） 和DistributedDataParallel（多进程）实现单机多卡训练，以及二者时间对比。
